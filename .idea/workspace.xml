@@ -5,16 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34f30775-e0d6-412b-b83c-777455081cbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problema1/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problema1/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problema1/PerecheNumere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problema1/PerecheNumere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/numere.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/numere.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/teste/TesteNumere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/teste/TesteNumere.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IuliaJ09"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IuliaJ09/Lab5P1.git",
+    "accountId": "7f57e114-cbb0-49d8-a18e-c79ee628485c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -26,9 +50,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MainApp.executor": "Run",
+    "JUnit.TesteNumere.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -49,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730636252324</updated>
-      <workItem from="1730636253383" duration="4000" />
+      <workItem from="1730636253383" duration="7525000" />
     </task>
     <servers />
   </component>
